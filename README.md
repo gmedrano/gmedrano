@@ -2,9 +2,7 @@
   <img src="./assets/gmedrano-logo.svg" alt="GM logo" width="90" />
 </p>
 
-# Gil Medrano
-
-I design and build AI-native product systems that connect strategy, workflow logic, and real-world impact.
+# I design and build AI-native product systems that connect strategy, workflow logic, and real-world impact.
 
 I work at the intersection of product design, frontend development, and applied AI, turning complex business, UX, and engineering requirements into structured systems that teams can actually use, ship, and scale.
 
