@@ -14,7 +14,7 @@ My current focus includes AI-native product orchestration, agentic workflows, de
 
 <img src="./assets/current-focus.svg" alt="Current Focus" width="100%" />
 
-<br><br>
+<br>
 
 ## Selected Links
 
@@ -23,14 +23,14 @@ My current focus includes AI-native product orchestration, agentic workflows, de
 - **Writing:** [narwhalepod.com](https://narwhalepod.com/)
 - **Essays & Tutorials:** [Medium / Narwhale Pod](https://medium.com/narwhale-pod)
 
-<br><br>
+<br>
 
 ## Open Source
 
 - [StackStorm / st2web](https://github.com/StackStorm/st2web)  
   UI design and frontend contribution work for the StackStorm web interface.
 
-<br><br>
+<br>
 
 ## Coming Soon
 
