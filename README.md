@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/gm-logo.jpeg" alt="GM logo" width="90" />
+</p>
+
 # Gil Medrano
 
 I design and build AI-native product systems that connect strategy, workflow logic, and real-world impact.
