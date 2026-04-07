@@ -1,0 +1,118 @@
+<svg fill="none" viewBox="0 0 1000 200" width="1000" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+        }
+        
+        .links-container {
+          width: 100%;
+          height: 100%;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          border: 1px solid #1f2328;
+          border-radius: 3px;
+          background-color: #ffffff;
+        }
+        
+        .links-header {
+          padding: 16px 24px;
+          border-bottom: 1px solid #d0d7de;
+          font-size: 16px;
+          font-weight: 600;
+          color: #1f2328;
+        }
+        
+        .links-grid {
+          display: grid;
+          grid-template-columns: 1fr 1fr;
+          gap: 0;
+        }
+        
+        .link-item {
+          display: flex;
+          align-items: center;
+          padding: 12px 24px;
+          border-bottom: 1px solid #d0d7de;
+          text-decoration: none;
+        }
+        
+        .link-item:nth-child(odd) {
+          border-right: 1px solid #d0d7de;
+        }
+        
+        .link-item:nth-last-child(-n+2) {
+          border-bottom: none;
+        }
+        
+        .link-label {
+          font-weight: 600;
+          color: #1f2328;
+          margin-right: 12px;
+          min-width: 140px;
+        }
+        
+        .link-url {
+          color: #0969da;
+          text-decoration: none;
+        }
+        
+        .link-url:hover {
+          text-decoration: underline;
+        }
+        
+        @media (prefers-color-scheme: dark) {
+          .links-container {
+            background-color: #0d1117;
+            border-color: #30363d;
+          }
+          
+          .links-header {
+            color: #e6edf3;
+            border-bottom-color: #21262d;
+          }
+          
+          .link-item {
+            border-bottom-color: #21262d;
+          }
+          
+          .link-item:nth-child(odd) {
+            border-right-color: #21262d;
+          }
+          
+          .link-label {
+            color: #e6edf3;
+          }
+          
+          .link-url {
+            color: #58a6ff;
+          }
+        }
+      </style>
+      
+      <div class="links-container">
+        <div class="links-header">Selected Links</div>
+        <div class="links-grid">
+          <a href="http://gilbertomedrano.com/" class="link-item">
+            <span class="link-label">Portfolio</span>
+            <span class="link-url">gilbertomedrano.com</span>
+          </a>
+          <a href="https://www.linkedin.com/in/gilbertomedrano" class="link-item">
+            <span class="link-label">LinkedIn</span>
+            <span class="link-url">linkedin.com/in/gilbertomedrano</span>
+          </a>
+          <a href="https://narwhalepod.com/" class="link-item">
+            <span class="link-label">Writing</span>
+            <span class="link-url">narwhalepod.com</span>
+          </a>
+          <a href="https://medium.com/narwhale-pod" class="link-item">
+            <span class="link-label">Essays & Tutorials</span>
+            <span class="link-url">Medium / Narwhale Pod</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
