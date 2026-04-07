@@ -16,12 +16,28 @@ With roots in architecture and years spent designing and coding complex product 
 
 ## Selected Links
 
-| Platform | Link |
-|----------|------|
-| **Portfolio** | [gilbertomedrano.com](http://gilbertomedrano.com/) |
-| **LinkedIn** | [linkedin.com/in/gilbertomedrano](https://www.linkedin.com/in/gilbertomedrano) |
-| **Writing** | [narwhalepod.com](https://narwhalepod.com/) |
-| **Essays & Tutorials** | [Medium / Narwhale Pod](https://medium.com/narwhale-pod) |
+<table width="100%">
+<tr>
+<th align="left">Platform</th>
+<th align="left">Link</th>
+</tr>
+<tr>
+<td><b>Portfolio</b></td>
+<td><a href="http://gilbertomedrano.com/">gilbertomedrano.com</a></td>
+</tr>
+<tr>
+<td><b>LinkedIn</b></td>
+<td><a href="https://www.linkedin.com/in/gilbertomedrano">linkedin.com/in/gilbertomedrano</a></td>
+</tr>
+<tr>
+<td><b>Writing</b></td>
+<td><a href="https://narwhalepod.com/">narwhalepod.com</a></td>
+</tr>
+<tr>
+<td><b>Essays & Tutorials</b></td>
+<td><a href="https://medium.com/narwhale-pod">Medium / Narwhale Pod</a></td>
+</tr>
+</table>
 
 <br>
 
