@@ -1,4 +1,4 @@
-# Gilberto Medrano
+# Gil Medrano
 
 I design and build AI-native product systems that connect strategy, workflow logic, and real-world impact.
 
