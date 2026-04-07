@@ -1,6 +1,6 @@
-<p align="center">
+<header align="center">
   <img src="./assets/gmedrano-logo.svg" alt="GM logo" width="90" />
-</p>
+</header>
 
 # I design and build AI-native product systems that connect strategy, workflow logic, and real-world impact.
 
