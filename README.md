@@ -16,10 +16,12 @@ With roots in architecture and years spent designing and coding complex product 
 
 ## Selected Links
 
-- **Portfolio:** [gilbertomedrano.com](http://gilbertomedrano.com/)
-- **LinkedIn:** [linkedin.com/in/gilbertomedrano](https://www.linkedin.com/in/gilbertomedrano)
-- **Writing:** [narwhalepod.com](https://narwhalepod.com/)
-- **Essays & Tutorials:** [Medium / Narwhale Pod](https://medium.com/narwhale-pod)
+|  | Platform | Link |
+|--|----------|------|
+| 🌐 | **Portfolio** | [gilbertomedrano.com](http://gilbertomedrano.com/) |
+| 💼 | **LinkedIn** | [linkedin.com/in/gilbertomedrano](https://www.linkedin.com/in/gilbertomedrano) |
+| ✍️ | **Writing** | [narwhalepod.com](https://narwhalepod.com/) |
+| 📝 | **Essays & Tutorials** | [Medium / Narwhale Pod](https://medium.com/narwhale-pod) |
 
 <br>
 
