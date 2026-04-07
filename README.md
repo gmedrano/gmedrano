@@ -4,7 +4,7 @@
 
 # I design and build AI-native product systems that connect strategy, workflow logic, and real-world impact.
 
-<br><br>
+<br>
 I work at the intersection of product design, frontend development, and applied AI, turning complex business, UX, and engineering requirements into structured systems that teams can actually use, ship, and scale.
 
 My current focus includes AI-native product orchestration, agentic workflows, design-aware implementation, and writing about the future of design, software, and context-driven tools.
@@ -14,7 +14,7 @@ My current focus includes AI-native product orchestration, agentic workflows, de
 
 <img src="./assets/current-focus.svg" alt="Current Focus" width="100%" />
 
-<br><br>
+<br><br><br>
 
 ## Selected Links
 
