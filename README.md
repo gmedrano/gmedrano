@@ -8,6 +8,7 @@ I work at the intersection of product design, frontend development, and applied 
 
 My current focus includes AI-native product orchestration, agentic workflows, design-aware implementation, and writing about the future of design, software, and context-driven tools.
 
+
 ## Current Focus
 
 <img src="./assets/current-focus.svg" alt="Current Focus" width="100%" />
