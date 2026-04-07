@@ -1,118 +1,37 @@
-<svg fill="none" viewBox="0 0 1000 200" width="1000" height="200" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        * {
-          margin: 0;
-          padding: 0;
-          box-sizing: border-box;
-        }
-        
-        .links-container {
-          width: 100%;
-          height: 100%;
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-          border: 1px solid #1f2328;
-          border-radius: 3px;
-          background-color: #ffffff;
-        }
-        
-        .links-header {
-          padding: 16px 24px;
-          border-bottom: 1px solid #d0d7de;
-          font-size: 16px;
-          font-weight: 600;
-          color: #1f2328;
-        }
-        
-        .links-grid {
-          display: grid;
-          grid-template-columns: 1fr 1fr;
-          gap: 0;
-        }
-        
-        .link-item {
-          display: flex;
-          align-items: center;
-          padding: 12px 24px;
-          border-bottom: 1px solid #d0d7de;
-          text-decoration: none;
-        }
-        
-        .link-item:nth-child(odd) {
-          border-right: 1px solid #d0d7de;
-        }
-        
-        .link-item:nth-last-child(-n+2) {
-          border-bottom: none;
-        }
-        
-        .link-label {
-          font-weight: 600;
-          color: #1f2328;
-          margin-right: 12px;
-          min-width: 140px;
-        }
-        
-        .link-url {
-          color: #0969da;
-          text-decoration: none;
-        }
-        
-        .link-url:hover {
-          text-decoration: underline;
-        }
-        
-        @media (prefers-color-scheme: dark) {
-          .links-container {
-            background-color: #0d1117;
-            border-color: #30363d;
-          }
-          
-          .links-header {
-            color: #e6edf3;
-            border-bottom-color: #21262d;
-          }
-          
-          .link-item {
-            border-bottom-color: #21262d;
-          }
-          
-          .link-item:nth-child(odd) {
-            border-right-color: #21262d;
-          }
-          
-          .link-label {
-            color: #e6edf3;
-          }
-          
-          .link-url {
-            color: #58a6ff;
-          }
-        }
-      </style>
-      
-      <div class="links-container">
-        <div class="links-header">Selected Links</div>
-        <div class="links-grid">
-          <a href="http://gilbertomedrano.com/" class="link-item">
-            <span class="link-label">Portfolio</span>
-            <span class="link-url">gilbertomedrano.com</span>
-          </a>
-          <a href="https://www.linkedin.com/in/gilbertomedrano" class="link-item">
-            <span class="link-label">LinkedIn</span>
-            <span class="link-url">linkedin.com/in/gilbertomedrano</span>
-          </a>
-          <a href="https://narwhalepod.com/" class="link-item">
-            <span class="link-label">Writing</span>
-            <span class="link-url">narwhalepod.com</span>
-          </a>
-          <a href="https://medium.com/narwhale-pod" class="link-item">
-            <span class="link-label">Essays & Tutorials</span>
-            <span class="link-url">Medium / Narwhale Pod</span>
-          </a>
-        </div>
-      </div>
-    </div>
-  </foreignObject>
+<svg fill="none" viewBox="0 0 1000 180" width="1000" height="180" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1000" height="180" fill="#ffffff" stroke="#d0d7de" stroke-width="1" rx="6"/>
+  
+  <!-- Header -->
+  <rect width="1000" height="45" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0" rx="6"/>
+  <line x1="0" y1="45" x2="1000" y2="45" stroke="#d0d7de" stroke-width="1"/>
+  <text x="20" y="28" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#1f2328">Selected Links</text>
+  
+  <!-- Divider lines -->
+  <line x1="500" y1="45" x2="500" y2="135" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="0" y1="90" x2="1000" y2="90" stroke="#d0d7de" stroke-width="1"/>
+  
+  <!-- Row 1 Left: Portfolio -->
+  <a href="http://gilbertomedrano.com/" target="_blank">
+    <text x="20" y="70" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="600" fill="#1f2328">Portfolio:</text>
+    <text x="100" y="70" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#0969da" text-decoration="underline">gilbertomedrano.com</text>
+  </a>
+  
+  <!-- Row 1 Right: LinkedIn -->
+  <a href="https://www.linkedin.com/in/gilbertomedrano" target="_blank">
+    <text x="520" y="70" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="600" fill="#1f2328">LinkedIn:</text>
+    <text x="600" y="70" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#0969da" text-decoration="underline">linkedin.com/in/gilbertomedrano</text>
+  </a>
+  
+  <!-- Row 2 Left: Writing -->
+  <a href="https://narwhalepod.com/" target="_blank">
+    <text x="20" y="115" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="600" fill="#1f2328">Writing:</text>
+    <text x="100" y="115" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#0969da" text-decoration="underline">narwhalepod.com</text>
+  </a>
+  
+  <!-- Row 2 Right: Essays & Tutorials -->
+  <a href="https://medium.com/narwhale-pod" target="_blank">
+    <text x="520" y="115" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="600" fill="#1f2328">Essays &amp; Tutorials:</text>
+    <text x="670" y="115" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#0969da" text-decoration="underline">Medium / Narwhale Pod</text>
+  </a>
 </svg>
