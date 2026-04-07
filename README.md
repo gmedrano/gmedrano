@@ -10,14 +10,7 @@ My current focus includes AI-native product orchestration, agentic workflows, de
 
 ## Current Focus
 
-- **Craftal**  
-  An AI-powered product orchestration system for turning product vision into structured workflows and implementation-ready specs.
-
-- **AI-native product systems**  
-  Exploring workflows, interfaces, and interaction models for agentic and context-aware software.
-
-- **Narwhale Pod**  
-  Essays, tutorials, and ideas on AI, design engineering, and digital craft.
+<img src="./assets/current-focus.svg" alt="Current Focus" width="100%" />
 
 ## Selected Links
 
