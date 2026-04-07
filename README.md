@@ -5,7 +5,7 @@
 # I design and build AI-native product systems that connect strategy, workflow logic, and real-world impact.
 
 <br>
-I work at the intersection of product design, frontend development, and applied AI, translating complex business, UX, and engineering requirements into structured systems that teams can use, ship, and scale.
+With roots in architecture and years spent designing and coding complex product ecosystems, I’m drawn to the kind of work where structure, interaction, and implementation all need to make sense together. <b>My work is shaped by a hybrid mindset: part designer, part builder, part systems thinker</b>.
 <br><br>
 
 ## Current Focus
