@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/gm-logo.jpeg" alt="GM logo" width="90" />
+  <img src="./assets/gmedrano-logo.svg" alt="GM logo" width="90" />
 </p>
 
 # Gil Medrano
