@@ -1,10 +1,10 @@
-# Gil Medrano
+# Gilberto Medrano
 
 I design and build AI-native product systems that connect strategy, workflow logic, and real-world impact.
 
-I work at the intersection of product design, frontend development, and applied AI. My focus is on turning complex business, UX, and engineering requirements into structured systems that people can actually use, ship, and scale.
+I work at the intersection of product design, frontend development, and applied AI, turning complex business, UX, and engineering requirements into structured systems that teams can actually use, ship, and scale.
 
-Right now, I am focused on AI-native product orchestration, agentic workflows, design-aware implementation, and writing about the future of design, software, and context-driven tools.
+My current focus includes AI-native product orchestration, agentic workflows, design-aware implementation, and writing about the future of design, software, and context-driven tools.
 
 ## Current Focus
 
@@ -20,14 +20,15 @@ Right now, I am focused on AI-native product orchestration, agentic workflows, d
 ## Selected Links
 
 - **Portfolio:** [gilbertomedrano.com](http://gilbertomedrano.com/)
-- **Writing:** [Narwhale Pod](https://narwhalepod.com/)
-- **Articles:** [Medium / Narwhale Pod](https://medium.com/narwhale-pod)
+- **LinkedIn:** [linkedin.com/in/gilbertomedrano](https://www.linkedin.com/in/gilbertomedrano)
+- **Writing:** [narwhalepod.com](https://narwhalepod.com/)
+- **Essays & Tutorials:** [Medium / Narwhale Pod](https://medium.com/narwhale-pod)
 
 ## Open Source
 
 - [StackStorm / st2web](https://github.com/StackStorm/st2web)  
   UI design and frontend contribution work for the StackStorm web interface.
 
-## Notes
+## Coming Soon
 
-I am currently curating and polishing a selection of public repositories. More implementation-focused work and interactive prototypes will be added here over time.
+I am currently curating and polishing a selection of public repositories. More implementation-focused work, experiments, and interactive prototypes will be added here over time.
