@@ -14,7 +14,7 @@ With roots in architecture and years spent designing and coding complex product 
 
 <br>
 
-<table border="0" cellspacing="0" cellpadding="20" align="center">
+<table border="0" cellpadding="20" align="center" frame="void" rules="none">
   <tr>
     <td align="center" width="20%"><a href="http://gilbertomedrano.com/"><img src="./assets/link-portfolio.svg" alt="Digital Portfolio" width="100%" /></a></td>
     <td align="center" width="20%"><a href="https://narwhalepod.com/"><img src="./assets/link-narwhale.svg" alt="Narwhale Pod" width="100%" /></a></td>
