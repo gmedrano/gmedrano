@@ -14,7 +14,7 @@ With roots in architecture and years spent designing and coding complex product 
 
 <br>
 
-<img src="./assets/selected-links.svg" alt="Selected Links" width="100%" />
+<img src="./assets/social-links.svg" alt="Selected Links" width="100%" />
 
 <br>
 

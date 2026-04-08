@@ -1,0 +1,33 @@
+<svg width="1000" height="140" viewBox="0 0 1000 140" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .link-icon { cursor: pointer; }
+      .link-icon:hover { opacity: 0.7; }
+    </style>
+  </defs>
+  
+  <!-- Digital Portfolio -->
+  <a href="http://gilbertomedrano.com/" target="_blank" class="link-icon">
+    <image x="50" y="0" width="90" height="109" xlink:href="./link-portfolio.svg"/>
+  </a>
+  
+  <!-- Narwhale Pod -->
+  <a href="https://narwhalepod.com/" target="_blank" class="link-icon">
+    <image x="240" y="0" width="86" height="109" xlink:href="./link-narwhale.svg"/>
+  </a>
+  
+  <!-- Dribbble -->
+  <a href="https://dribbble.com/gmedrano" target="_blank" class="link-icon">
+    <image x="430" y="0" width="80" height="109" xlink:href="./link-dribbble.svg"/>
+  </a>
+  
+  <!-- Medium -->
+  <a href="https://medium.com/narwhale-pod" target="_blank" class="link-icon">
+    <image x="620" y="0" width="80" height="109" xlink:href="./link-medium.svg"/>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/gilbertomedrano" target="_blank" class="link-icon">
+    <image x="810" y="0" width="80" height="109" xlink:href="./link-linkedin.svg"/>
+  </a>
+</svg>
