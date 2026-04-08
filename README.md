@@ -26,7 +26,7 @@ With roots in architecture and years spent designing and coding complex product 
 
 <br>
 
-## Open Source
+<!-- ## Open Source
 
 - [StackStorm / st2web](https://github.com/StackStorm/st2web)  
   UI design and frontend contribution work for the StackStorm web interface.
@@ -35,4 +35,4 @@ With roots in architecture and years spent designing and coding complex product 
 
 ## Coming Soon
 
-I am currently curating and polishing a selection of public repositories. More implementation-focused work, experiments, and interactive prototypes will be added here over time.
+I am currently curating and polishing a selection of public repositories. More implementation-focused work, experiments, and interactive prototypes will be added here over time. -->
