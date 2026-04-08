@@ -14,15 +14,15 @@ With roots in architecture and years spent designing and coding complex product 
 
 <br>
 
-<table border="0" cellpadding="20" align="center" frame="void" rules="none">
-  <tr>
-    <td align="center" width="20%"><a href="http://gilbertomedrano.com/"><img src="./assets/link-portfolio.svg" alt="Digital Portfolio" width="100%" /></a></td>
-    <td align="center" width="20%"><a href="https://narwhalepod.com/"><img src="./assets/link-narwhale.svg" alt="Narwhale Pod" width="100%" /></a></td>
-    <td align="center" width="20%"><a href="https://dribbble.com/gmedrano"><img src="./assets/link-dribbble.svg" alt="Dribbble" width="100%" /></a></td>
-    <td align="center" width="20%"><a href="https://medium.com/narwhale-pod"><img src="./assets/link-medium.svg" alt="Medium" width="100%" /></a></td>
-    <td align="center" width="20%"><a href="https://www.linkedin.com/in/gilbertomedrano"><img src="./assets/link-linkedin.svg" alt="LinkedIn" width="100%" /></a></td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="http://gilbertomedrano.com/"><img src="./assets/link-portfolio.svg" alt="Digital Portfolio" width="12%" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://narwhalepod.com/"><img src="./assets/link-narwhale.svg" alt="Narwhale Pod" width="12%" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dribbble.com/gmedrano"><img src="./assets/link-dribbble.svg" alt="Dribbble" width="11%" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/narwhale-pod"><img src="./assets/link-medium.svg" alt="Medium" width="11%" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gilbertomedrano"><img src="./assets/link-linkedin.svg" alt="LinkedIn" width="11%" /></a>
+
+</div>
 
 <br>
 
