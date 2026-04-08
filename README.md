@@ -14,7 +14,15 @@ With roots in architecture and years spent designing and coding complex product 
 
 <br>
 
-<img src="./assets/social-links.svg" alt="Selected Links" width="100%" />
+<table width="100%">
+  <tr>
+    <td align="center"><a href="http://gilbertomedrano.com/"><img src="./assets/link-portfolio.svg" alt="Digital Portfolio" height="109" /></a></td>
+    <td align="center"><a href="https://narwhalepod.com/"><img src="./assets/link-narwhale.svg" alt="Narwhale Pod" height="109" /></a></td>
+    <td align="center"><a href="https://dribbble.com/gmedrano"><img src="./assets/link-dribbble.svg" alt="Dribbble" height="109" /></a></td>
+    <td align="center"><a href="https://medium.com/narwhale-pod"><img src="./assets/link-medium.svg" alt="Medium" height="109" /></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/gilbertomedrano"><img src="./assets/link-linkedin.svg" alt="LinkedIn" height="109" /></a></td>
+  </tr>
+</table>
 
 <br>
 
