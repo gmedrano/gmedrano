@@ -14,15 +14,23 @@ With roots in architecture and years spent designing and coding complex product 
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td align="center"><a href="http://gilbertomedrano.com/"><img src="./assets/link-portfolio.svg" alt="Digital Portfolio" height="109" /></a></td>
-    <td align="center"><a href="https://narwhalepod.com/"><img src="./assets/link-narwhale.svg" alt="Narwhale Pod" height="109" /></a></td>
-    <td align="center"><a href="https://dribbble.com/gmedrano"><img src="./assets/link-dribbble.svg" alt="Dribbble" height="109" /></a></td>
-    <td align="center"><a href="https://medium.com/narwhale-pod"><img src="./assets/link-medium.svg" alt="Medium" height="109" /></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/gilbertomedrano"><img src="./assets/link-linkedin.svg" alt="LinkedIn" height="109" /></a></td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; padding: 0 20px; width: 100%;">
+  <a href="http://gilbertomedrano.com/" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="./assets/link-portfolio.svg" alt="Digital Portfolio" height="109" style="border: none;" />
+  </a>
+  <a href="https://narwhalepod.com/" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="./assets/link-narwhale.svg" alt="Narwhale Pod" height="109" style="border: none;" />
+  </a>
+  <a href="https://dribbble.com/gmedrano" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="./assets/link-dribbble.svg" alt="Dribbble" height="109" style="border: none;" />
+  </a>
+  <a href="https://medium.com/narwhale-pod" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="./assets/link-medium.svg" alt="Medium" height="109" style="border: none;" />
+  </a>
+  <a href="https://www.linkedin.com/in/gilbertomedrano" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="./assets/link-linkedin.svg" alt="LinkedIn" height="109" style="border: none;" />
+  </a>
+</div>
 
 <br>
 
