@@ -24,7 +24,7 @@ With roots in architecture and years spent designing and coding complex product 
 
 </div>
 
-<br>
+<br><br>
 
 <!-- ## Open Source
 
