@@ -16,7 +16,7 @@ With roots in architecture and years spent designing and coding complex product 
 
 <div align="center">
 
-<a href="http://gilbertomedrano.com/"><img src="./assets/link-portfolio.svg" alt="Digital Portfolio" width="7.6%" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://gilbertomedrano.com/"><img src="./assets/link-portfolio.svg" alt="Digital Portfolio" width="7.8%" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://narwhalepod.com/"><img src="./assets/link-narwhale.svg" alt="Narwhale Pod" width="7.6%" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://dribbble.com/gmedrano"><img src="./assets/link-dribbble.svg" alt="Dribbble" width="7%" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/narwhale-pod"><img src="./assets/link-medium.svg" alt="Medium" width="7%" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
